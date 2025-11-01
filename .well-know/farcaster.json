@@ -1,7 +1,18 @@
 {
-  "domain": "https://farcaster-punks-mint.vercel.app/",
-  "owner_fid": 346075,
-  "name": "FarcasterPunks",
-  "timestamp": "2025-10-30T10:00:00Z",
-  "signature": "0x0000000000000000000000000000000000000000000000000000000000000000"
+  "accountAssociation": {
+    "header": "eyJmaWQiOjM0NjA3NSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDEwQjUzYTlGNDFBNzhlNENDQ0FhZUEyQzUxZGZiNUY2RmYwMjIzMTgifQ",
+    "payload": "eyJkb21haW4iOiJmYXJjYXN0ZXItcHVua3MtbWludC52ZXJjZWwuYXBwIn0",
+    "signature": "SlgOnU0HEDeIMZTLT7ywJKXUHcX0vj+QQxv8ontb7xtJ7t1eRaoEuOPtT9pn3O2jovFThj8ZZqiXb6J97IBkfxs="
+  },
+  "frame": {
+    "version": "1",
+    "name": "Example Frame",
+    "iconUrl": "https://farcaster-punks-mint.vercel.app/icon.png",
+    "homeUrl": "https://farcaster-punks-mint.vercel.app",
+    "imageUrl": "https://farcaster-punks-mint.vercel.app/image.png",
+    "buttonTitle": "Check this out",
+    "splashImageUrl": "https://farcaster-punks-mint.vercel.app/splash.png",
+    "splashBackgroundColor": "#eeccff",
+    "webhookUrl": "https://farcaster-punks-mint.vercel.app/api/webhook"
+  }
 }
