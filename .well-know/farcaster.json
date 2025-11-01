@@ -7,12 +7,12 @@
   "frame": {
     "version": "1",
     "name": "Example Frame",
-    "iconUrl": "https://farcaster-punks-mint.vercel.app/icon.png",
-    "homeUrl": "https://farcasterpunks-mint.vercel.app",
-    "imageUrl": "https://farcaster-punks-mint.vercel.app/image.png",
-    "buttonTitle": "Check this out",
-    "splashImageUrl": "https://farcaster-punks-mint.vercel.app/splash.png",
+    "iconUrl": "farcasterpunks.vercel.app/icon.png",
+    "homeUrl": "farcasterpunks.vercel.app",
+    "imageUrl": "farcasterpunks.vercel.app/image.png",
+    "buttonTitle": "farcaster punks",
+    "splashImageUrl": "farcasterpunks.vercel.app/splash.png",
     "splashBackgroundColor": "#eeccff",
-    "webhookUrl": "https://farcaster-punks-mint.vercel.app/api/webhook"
+    "webhookUrl": "farcasterpunks.vercel.app/api/webhook"
   }
 }
