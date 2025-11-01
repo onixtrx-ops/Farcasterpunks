@@ -7,24 +7,12 @@
   "frame": {
     "version": "1",
     "name": "Farcaster Punks — Official Mint",
-    "iconUrl": "https://farcaster-punks-mint.vercel.app/public/assets/logo.png",
-    "imgeUrl": "https://farcaster-punks-mint.vercel.app/public/assets/logo.png",
     "homeUrl": "https://farcaster-punks-mint.vercel.app/",
+    "imageUrl": "https://farcster-punks-mint.vercel.app/public/assets/logo.png",
+    "postUrl": "https://farcaster-punks-mint.vercel.app/api/webhook",
     "buttons": [
-      {
-        "title": "Mint Now",
-        "action": {
-          "type": "post",
-          "target": "https://farcaster-punks-mint.vercel.app/api/webhook"
-        }
-      },
-      {
-        "title": "OpenSea",
-        "action": {
-          "type": "link",
-          "target": "https://opensea.io/collection/farcaster-punks-59466883/overview"
-        }
-     }
+      { "title": "Mint Now" },
+      { "title": "OpenSea", "action": "link", "target": "https://opensea.io/collection/farcaster-punks-59466883/overview" }
     ],
     "splashImageUrl": "https://farcaster-punks-mint.vercel.app/public/assets/logo.png",
     "splashBackgroundColor": "#110033"
