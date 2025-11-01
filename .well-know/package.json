@@ -1,0 +1,22 @@
+{
+  "name": "farcaster-nft-mint",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@farcaster/miniapp-sdk": "latest",
+    "@farcaster/miniapp-wagmi-connector": "latest",
+    "@reown/appkit": "^1.8.2",
+    "@reown/appkit-adapter-wagmi": "^1.8.2",
+    "@wagmi/core": "^2.13.4",
+    "canvas-confetti": "^1.9.3",
+    "viem": "^2.21.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
